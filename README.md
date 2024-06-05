@@ -28,7 +28,18 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 - Clone the repo
 
-**git clone https://github.com/yourusername/resume-classification-system.git**
+**git clone https://github.com/soundaryalaharivalipe/Resume_Classification_using_NLP**
 - Install required packages
 
 **pip install -r requirements.txt**
+
+### Usage
+To use the system, run the main script and follow the on-screen prompts to upload a resume and see the classification results.
+
+**python main.py**
+
+## Models
+
+- **K-Nearest Neighbors (KNN):** Used for its simplicity and effectiveness in classification tasks.
+- **Convolutional Neural Networks (CNN):** Employs a deep learning approach to extract higher-level features from the resume text.
+- **DistilBERT:** A transformer-based model that provides state-of-the-art performance for NLP tasks.
