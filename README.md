@@ -50,6 +50,32 @@ To use the system, run the main script and follow the on-screen prompts to uploa
 - **Convolutional Neural Networks (CNN):** Employs a deep learning approach to extract higher-level features from the resume text.
 - **DistilBERT:** A transformer-based model that provides state-of-the-art performance for NLP tasks.
 
+## Data Visualization and Results 
+
+- Visualizing the data distribution in each category:
+
+![image](https://github.com/soundaryalaharivalipe/Resume_Classification_using_NLP/assets/169948476/3e5612fd-5062-43fb-bfd4-bc1c2499ab71)
+
+- Visualizing most commonly used words in each type of Resumes:
+![image](https://github.com/soundaryalaharivalipe/Resume_Classification_using_NLP/assets/169948476/f49e2525-126b-457f-95a3-209f8ba203d9)
+
+![image](https://github.com/soundaryalaharivalipe/Resume_Classification_using_NLP/assets/169948476/358dfd3e-4333-4c4c-805e-510bd07f8f97)
+
+![image](https://github.com/soundaryalaharivalipe/Resume_Classification_using_NLP/assets/169948476/3964c9e6-5ec7-464f-9a99-c4415524bd20)
+
+- Visualizing the length distribution of the content in the Resumes:
+
+![image](https://github.com/soundaryalaharivalipe/Resume_Classification_using_NLP/assets/169948476/b5e380d8-f0d0-4e24-8f13-a8964b0294aa)
+
+- Visualizing of number of words in each category of resume using boxplot
+
+![image](https://github.com/soundaryalaharivalipe/Resume_Classification_using_NLP/assets/169948476/e71f9c37-7378-4ae5-bffe-21b6985a68c7)
+
+- Results – Evaluation Metrics Comparison:
+
+![image](https://github.com/soundaryalaharivalipe/Resume_Classification_using_NLP/assets/169948476/439810f9-ab06-4f8c-ac61-9e0d6a6bded7)
+
+
 ## Contributions
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
