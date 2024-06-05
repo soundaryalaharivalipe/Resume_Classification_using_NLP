@@ -19,17 +19,13 @@ APIs: GloVe for Word Representation
 
 ## Getting Started
 To get a local copy up and running follow these simple steps.
-- Prerequisites
-* Python 3.8+
-* pip
+### Prerequisites
+- Python 3.8+
+- pip
+**sudo apt-get install python3-pip**
 
-sudo apt-get install python3-pip
-Installation
-Clone the repo
-bash
-Copy code
-git clone https://github.com/yourusername/resume-classification-system.git
-Install required packages
-bash
-Copy code
-pip install -r requirements.txt
+### Installation
+- Clone the repo
+**git clone https://github.com/yourusername/resume-classification-system.git**
+- Install required packages
+**pip install -r requirements.txt**
