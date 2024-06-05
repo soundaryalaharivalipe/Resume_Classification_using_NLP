@@ -6,11 +6,17 @@ The Resume Classification System is an automated tool designed to categorize res
 
 ## Features
 
-Automated Classification: Quickly categorizes resumes into relevant job domains, facilitating faster recruitment decisions.
-Advanced ML Models: Incorporates multiple machine learning models to ensure high accuracy and adaptability to various resume formats.
-User-Friendly Interface: Provides a simple and intuitive interface for users to upload and classify resumes.
-Detailed Analytics: Offers insights into the classification process with detailed accuracy and performance metrics.
-Built With
+- **Automated Classification:** Quickly categorizes resumes into relevant job domains, facilitating faster recruitment decisions.
+- **Advanced ML Models:** Incorporates multiple machine learning models to ensure high accuracy and adaptability to various resume formats.
+- **User-Friendly Interface:** Provides a simple and intuitive interface for users to upload and classify resumes.
+- **Detailed Analytics:** Offers insights into the classification process with detailed accuracy and performance metrics.
+
+## Built With
+
+- **Languages:** Python
+- **Libraries/Frameworks:** Scikit-learn, Keras, TensorFlow, Hugging Face's Transformers
+- **Tools:** Jupyter Notebook, Pandas, NumPy
+- **APIs:** GloVe for Word Representation
 
 ## Languages: Python
 Libraries/Frameworks: Scikit-learn, Keras, TensorFlow, Hugging Face's Transformers
