@@ -49,3 +49,13 @@ To use the system, run the main script and follow the on-screen prompts to uploa
 - **K-Nearest Neighbors (KNN):** Used for its simplicity and effectiveness in classification tasks.
 - **Convolutional Neural Networks (CNN):** Employs a deep learning approach to extract higher-level features from the resume text.
 - **DistilBERT:** A transformer-based model that provides state-of-the-art performance for NLP tasks.
+
+## Contributions
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+- Fork the Project
+- Create your Feature Branch (git checkout -b feature/AmazingFeature)
+- Commit your Changes (git commit -m 'Add some AmazingFeature')
+- Push to the Branch (git push origin feature/AmazingFeature)
+- Open a Pull Request
