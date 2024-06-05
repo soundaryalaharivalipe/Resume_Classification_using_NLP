@@ -52,6 +52,10 @@ To use the system, run the main script and follow the on-screen prompts to uploa
 
 ## Data Visualization and Results 
 
+- Value count of each category in the dataset:
+
+![image](https://github.com/soundaryalaharivalipe/Resume_Classification_using_NLP/assets/169948476/9c88a701-33d6-46c9-b2e0-c6443df2f326)
+
 - Visualizing the data distribution in each category:
 
 ![image](https://github.com/soundaryalaharivalipe/Resume_Classification_using_NLP/assets/169948476/3e5612fd-5062-43fb-bfd4-bc1c2499ab71)
